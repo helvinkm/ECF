@@ -1,0 +1,44 @@
+.btnContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    
+}
+.Countries{
+    width: 500px;
+    color: white;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.displayTask{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+img{
+    width: 200px;
+    align-items: center;
+}
+.nomCountries{
+    padding: 10px;
+    
+}
+.capitalCountries{
+    padding: 10px;
+}
+#populationCountries{
+    padding: 10px;
+    
+}
+.country{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin: 50px;
+    padding: 50px;
+}
